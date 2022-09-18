@@ -1,0 +1,6 @@
+services:
+  web:
+    image: develephant/particle2dx:latest
+    ports:
+      - '80:80'
+
